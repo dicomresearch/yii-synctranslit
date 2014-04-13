@@ -1,0 +1,22 @@
+{
+    "name": "fad/yii-syncTranslit",
+    "type": "library",
+    "description": "Translit text via javascript or save transliterated model attribute text via behavior",
+    "keywords": ["yii","component","event","translit"],
+    "homepage": "https://github.com/magefad/yii-syncTranslit",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Ruslan Fadeev",
+            "email": "fadeevr@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/magefad/yii-syncTranslit/issues",
+        "source": "https://github.com/magefad/yii-syncTranslit"
+    },
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
+
