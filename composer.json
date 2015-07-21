@@ -1,5 +1,5 @@
 {
-    "name": "fad/yii-synctranslit",
+    "name": "dicomresearch/yii-synctranslit",
     "type": "library",
     "description": "Translit text via javascript or save transliterated model attribute text via behavior",
     "keywords": ["yii","component","event","translit"],
@@ -11,10 +11,6 @@
             "email": "fadeevr@gmail.com"
         }
     ],
-    "support": {
-        "issues": "https://github.com/magefad/yii-synctranslit/issues",
-        "source": "https://github.com/magefad/yii-synctranslit"
-    },
     "require": {
         "php": ">=5.1.0"
     }
